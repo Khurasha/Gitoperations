@@ -24,6 +24,9 @@ public class Week31 {
         // TODO code application logic here
         System.out.println("shabd ");
         System.out.println("khurana");
+        System.out.println("khurana");
+        
+        
     }
     
 }
