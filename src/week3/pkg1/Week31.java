@@ -25,6 +25,7 @@ public class Week31 {
         System.out.println("shabd ");
         System.out.println("khurana");
         System.out.println("khurana");
+        // remote
         
         
     }
